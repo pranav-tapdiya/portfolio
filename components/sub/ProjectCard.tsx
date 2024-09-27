@@ -6,7 +6,7 @@ interface Props {
   src: string;
   title: string;
   description: string;
-  id: string; // Add this new prop
+  id: string; 
 }
 
 const ProjectCard = ({ src, title, description, id }: Props) => {

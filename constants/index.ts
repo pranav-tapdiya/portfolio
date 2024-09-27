@@ -1,4 +1,23 @@
 export const Skill_data = [
+    
+    {
+      skill_name: "React",
+      Image: "/react.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "Flutter",
+      Image: "/Flutter.png",
+      width: 80,
+      height: 80,
+    },
+    {
+      skill_name: "Next js 13",
+      Image: "/next.png",
+      width: 80,
+      height: 80,
+    },
     {
       skill_name: "Html 5",
       Image: "/html.png",
@@ -16,24 +35,6 @@ export const Skill_data = [
       Image: "/js.png",
       width: 65,
       height: 65,
-    },
-    {
-      skill_name: "React",
-      Image: "/react.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Type Script",
-      Image: "/ts.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Next js 13",
-      Image: "/next.png",
-      width: 80,
-      height: 80,
     },
     {
       skill_name: "Node js",
@@ -68,16 +69,10 @@ export const Skill_data = [
   
   export const Frontend_skill = [
     {
-      skill_name: "Html 5",
-      Image: "/html.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Css",
-      Image: "/css.png",
-      width: 80,
-      height: 80,
+      skill_name: "Flutter",
+      Image: "/Flutter.png",
+      width: 70,
+      height: 70,
     },
     {
       skill_name: "Java Script",
@@ -143,6 +138,12 @@ export const Skill_data = [
       height: 80,
     },
     {
+      skill_name: "photoshop",
+      Image: "/photoshop.png",
+      width: 70,
+      height: 70,
+    },
+    {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
       width: 40,
@@ -153,12 +154,6 @@ export const Skill_data = [
       Image: "/Firebase.png",
       width: 55,
       height: 55,
-    },
-    {
-      skill_name: "Postger SQL",
-      Image: "/postger.png",
-      width: 70,
-      height: 70,
     },
     {
       skill_name: "My SQL",
@@ -176,8 +171,8 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
+      skill_name: "Flutter",
+      Image: "/Flutter.png",
       width: 70,
       height: 70,
     },
@@ -187,7 +182,6 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-  
     {
       skill_name: "Figma",
       Image: "/figma.png",
@@ -201,8 +195,8 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
+      skill_name: "Keilmicrovision",
+      Image: "/keil.png",
       width: 60,
       height: 60,
     },
